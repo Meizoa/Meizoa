@@ -28,5 +28,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naezan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=naezan)](https://solved.ac/jhj20071)   
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naezan&show_icons=true&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
