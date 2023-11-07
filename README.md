@@ -13,6 +13,7 @@
 - UnityEngine
 - Graphic Programming
 - OpenGL
+- Python
 - DirectX(i'm learning! 😋)
 - Rust Language(i'm learning! 😋)
     
