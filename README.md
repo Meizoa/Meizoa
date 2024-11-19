@@ -11,7 +11,6 @@
 
 - UnrealEngine
 - UnityEngine
-- Graphic Programming
 - OpenGL
 - Python(a little)
 - DirectX(a little)
